@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Changed something, but it's still a link
+          Changed something TWICE, but it's still a link
         </a>
       </header>
     </div>
